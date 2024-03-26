@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 
-# data.go.kr
+# data.go.kr - 소상공인시장진흥공단_상가(상권)정보 260mg
 
 data = pd.read_csv("C:/Users/print/Downloads/seoul.csv")
 
