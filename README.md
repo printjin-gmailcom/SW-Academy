@@ -19,10 +19,11 @@
 ## 기술 스택
 
 - **Python**
-- **TensorFlow** 및 **Keras**
-- **Pandas**, **NumPy** 등 데이터 처리 라이브러리
-- **Scikit-learn**: 머신러닝 라이브러리
-- **Hadoop**, **Spark**: 빅데이터 처리 프레임워크
+- **TensorFlow**
+- **Keras**
+- **Pandas**, **NumPy** ..
+- **Scikit-learn** ..
+- **Hadoop**, **Spark** ..
 
 
 
